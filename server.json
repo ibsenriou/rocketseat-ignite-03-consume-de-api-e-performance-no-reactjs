@@ -23,6 +23,30 @@
       "category": "Casa",
       "amount": 1000,
       "createdAt": "2023-01-10T19:00:00.000Z"
+    },
+    {
+      "description": "Pão",
+      "amount": 10,
+      "category": "Alimento",
+      "type": "income",
+      "createdAt": "2023-01-16T23:17:42.743Z",
+      "id": 4
+    },
+    {
+      "description": "Picanha",
+      "amount": 500,
+      "category": "Dibre",
+      "type": "outcome",
+      "createdAt": "2023-01-16T23:29:48.919Z",
+      "id": 5
+    },
+    {
+      "description": "Picanha",
+      "amount": 500,
+      "category": "Gorpe",
+      "type": "outcome",
+      "createdAt": "2023-01-16T23:33:55.970Z",
+      "id": 6
     }
   ]
 }
